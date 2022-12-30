@@ -4,6 +4,8 @@ let G = 50
 let numPlanets = 5
 let destabilise = 0.15
 
+// setup
+
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
